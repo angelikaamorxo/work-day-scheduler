@@ -24,5 +24,7 @@ THEN the saved events persist
 Allows the user to create a planner and save their tasks during the day. It will change colours depending on whether the task has been completed or not. Past (blue), present (pink) and green (future). It also allows the user to reset their day planner if needed! 
 
 ## The Final Product 
+[<img src="./assets/images/screenshot of website.png"]
 
 ## Link to deployed application: 
+https://angelikaamorxo.github.io/work-day-scheduler/
