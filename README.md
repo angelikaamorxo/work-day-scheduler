@@ -26,5 +26,7 @@ Allows the user to create a planner and save their tasks during the day. It will
 ## The Final Product 
 [<img src="./assets/images/screenshot of website.png"]
 
+If photo isnt seen, it can be seen in assets > images > screenshot of website.
+
 ## Link to deployed application: 
 https://angelikaamorxo.github.io/work-day-scheduler/

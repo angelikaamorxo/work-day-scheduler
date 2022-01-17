@@ -35,7 +35,7 @@ function displayDate() {
 // User adds new event
 function newEvent() {
     let currentHour = moment().format("H");
-    for (let i = 9; i < 19; i++) {
+    for (let i = 1; i < 12; i++) {
         if (i == currentHour) {
             $('#textarea' + i).addClass('present');
         } else if (i > currentHour) {
@@ -60,7 +60,7 @@ function getData(textArea, num) {
 
 function clearData() {
     localStorage.clear();
-    for (let i = 9; i < 24; i++) {
+    for (let i = 1; i < 24; i++) {
         $('#textarea' + i).text("");
     }
 }
