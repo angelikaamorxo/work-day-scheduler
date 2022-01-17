@@ -11,6 +11,7 @@ textarea {
     color: #000000;
     border-left: 1px solid black;
     padding: 10px;
+    height: 75px;
 }
 
 header h1 {
@@ -20,13 +21,18 @@ header h1 {
   
 .jumbotron {
     text-align: center;
+    font-family: 'Mochiy Pop P One';
     align-items: center;
     background-color: transparent;
-    color: rgb(121, 74, 74);
+    color: rgb(197, 8, 8);
     border-radius: 0;
     border-bottom: 10px solid rgb(255, 137, 137);
 }
   
+.container p {
+    font-family: 'Mochiy Pop P One';
+}
+
 .description {
     white-space: pre-wrap;
 }
@@ -49,18 +55,18 @@ header h1 {
 }
   
 .past {
-    background-color: #ffd5d5;
-    color: black
+    background-color: #56e6ff;
+    color: grey
 }
   
 .present {
     background-color: #ff6961;
-    color: black
+    color: grey
 }
   
 .future {
     background-color: #77dd77;
-    color: black
+    color: grey
 }
   
 .saveBtn {
@@ -68,7 +74,7 @@ header h1 {
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
     background-color: #690b1e;
-    color: white;
+    color: rgb(255, 137, 137);
 }
   
 .saveBtn i:hover {
@@ -76,3 +82,13 @@ header h1 {
     transition: all 0.3s ease-in-out;
 }
   
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    background-color: light palevioletred;
+    margin-top: 20px;
+    color: rgb(255, 137, 137);
+    font-family: 'Mochiy Pop P One';
+}
