@@ -24,7 +24,7 @@ THEN the saved events persist
 Allows the user to create a planner and save their tasks during the day. It will change colours depending on whether the task has been completed or not. Past (blue), present (pink) and green (future). It also allows the user to reset their day planner if needed! 
 
 ## The Final Product 
-[<img src="./assets/images/screenshot of website.png"]
+![screenshot of website](https://user-images.githubusercontent.com/94064933/149762297-dfb35bd7-ecdb-45a1-b433-ed830f8196e6.png)
 
 If photo isnt seen, it can be seen in assets > images > screenshot of website.
 
